@@ -1,0 +1,1 @@
+1.Resize the font size as per windows size
